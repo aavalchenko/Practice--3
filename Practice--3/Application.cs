@@ -1,7 +1,7 @@
 ﻿using System;
 using InputOutputLib;
 
-namespace Practice__2
+namespace Practice__3
 {
     class Application
     {
